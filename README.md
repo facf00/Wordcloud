@@ -1,4 +1,4 @@
-# wordcloud ☁️
+# Wordcloud ☁️
 
 Word Cloud Generator
 
